@@ -5,6 +5,8 @@ PEOPS-rendered PCSX-ReARMed WebAssembly core. It adds range-streamed CD-ROM
 loading, a responsive controller UI, cloud game catalogs, save-state tools, and
 memory-card tools.
 
+Try the live build: [pcsxEdge on GitHub Pages](https://ff7man.github.io/pcsxEdge/)
+
 This is a separate experimental build from the original `pcsxjs-streaming`
 project. It is not published until the new core integration has been tested.
 
