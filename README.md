@@ -6,7 +6,9 @@ loading, a responsive controller UI, cloud game catalogs, save states, and
 memory card management.
 
 Try the live build: [pcsxEdge on GitHub Pages](https://ff7man.github.io/pcsxEdge/)
+
 <img width="1607" height="875" alt="Screenshot 2026-10-09 at 3 19 38 PM" src="https://github.com/user-attachments/assets/f9e657d8-493e-4fc8-bc1e-0a8e6c2972f6" />
+<img width="1292" height="757" alt="Screenshot 2026-10-09 at 3 26 40 PM" src="https://github.com/user-attachments/assets/d96c1d63-99fe-4ba3-b492-17e0aea8da34" />
 
 ## Why this was made
 

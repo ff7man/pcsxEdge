@@ -1,6 +1,4 @@
-// pcsxEdge test server: serves the emulator and ranged game files from one port.
-// The default games path follows the existing eNGE symlink so this can test the
-// same Digimon World files without copying a large BIN into this repository.
+// pcsxEdge cloud server
 package main
 
 import (
