@@ -7,3 +7,6 @@ pcsxjs-test-server
 *.o
 *.a
 *.d
+
+# Generated PCSX-ReARMed build metadata
+core/pcsx-rearmed/include/revision.h

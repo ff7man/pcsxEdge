@@ -47,7 +47,16 @@ memory-constrained browsers, while using the PEOPS GPU backend and interpreter C
 ### Build the emulator
 
 The browser-facing wrapper is `core/pcsx_rearmed_peops.js` and
-`core/pcsx_rearmed_peops.wasm`. This build does not use the
+`core/pcsx_rearmed_peops.wasm`. The exact PCSX-ReARMed source and the
+reproducible PEOPS archive build are included under `core/pcsx-rearmed/`.
+After installing and activating the [Emscripten SDK](https://emscripten.org/docs/getting_started/downloads.html),
+rebuild the core and wrapper with:
+
+```sh
+./build_wasm.sh
+```
+
+This build does not use the
 [WebAssembly PS1 JIT](https://github.com/kblood/psx-wasm-jit-libretro); the PS1
 CPU runs through the interpreter.
 
