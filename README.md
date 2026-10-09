@@ -1,17 +1,12 @@
 # pcsxEdge
 
-pcsxEdge is a browser-based PlayStation emulator using the faster
-PEOPS-rendered PCSX-ReARMed WebAssembly core. It adds range-streamed CD-ROM
-loading, a responsive controller UI, cloud game catalogs, save-state tools, and
-memory-card tools.
+pcsxEdge is a browser based PlayStation emulator using the faster
+PEOPS-rendered PCSX-ReARMed WebAssembly core. It adds range streamed CD-ROM
+loading, a responsive controller UI, cloud game catalogs, save states, and
+memory card management.
 
 Try the live build: [pcsxEdge on GitHub Pages](https://ff7man.github.io/pcsxEdge/)
-
-This is a separate experimental build from the original `pcsxjs-streaming`
-project. It is not published until the new core integration has been tested.
-
-<img width="1377" height="803" alt="shot1" src="https://github.com/user-attachments/assets/a0109906-1c94-4c1b-b733-5e5a243e6e67" />
-<img width="1302" height="651" alt="shot2" src="https://github.com/user-attachments/assets/024849f2-bd3d-4d1f-9db0-a8c4ff827a33" />
+<img width="1607" height="875" alt="Screenshot 2026-10-09 at 3 19 38 PM" src="https://github.com/user-attachments/assets/f9e657d8-493e-4fc8-bc1e-0a8e6c2972f6" />
 
 ## Why this was made
 
@@ -181,7 +176,7 @@ with `-cloud`.
 
 ## License and upstream
 
-This project uses the PCSX-ReARMed core compiled to WebAssembly with the PEOPS
+This project uses a 2026 PCSX-ReARMed core compiled to WebAssembly with the PEOPS
 GPU renderer. See the included license and the core source headers for license
 information.
 
