@@ -1,0 +1,9 @@
+# Local server data and browser automation artifacts
+cloud-data/
+.playwright-cli/
+pcsxjs-test-server
+
+# Emscripten build intermediates
+*.o
+*.a
+*.d
